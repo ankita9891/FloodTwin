@@ -1,0 +1,48 @@
+{
+ "years": [
+  1951,
+  2025
+ ],
+ "districts": {
+  "Cachar": {
+   "LAT_MIN": 24.4,
+   "LAT_MAX": 25.1,
+   "LON_MIN": 92.45,
+   "LON_MAX": 93.15
+  },
+  "Karimganj": {
+   "LAT_MIN": 24.1,
+   "LAT_MAX": 24.9,
+   "LON_MIN": 92.15,
+   "LON_MAX": 92.7
+  },
+  "Hailakandi": {
+   "LAT_MIN": 24.3,
+   "LAT_MAX": 24.9,
+   "LON_MIN": 92.3,
+   "LON_MAX": 92.9
+  }
+ },
+ "heavy_rain_threshold_mm": 64.5,
+ "consecutive_days": 2,
+ "features": [
+  "DayOfYear",
+  "Month",
+  "Year",
+  "Rainfall",
+  "Rainfall_lag1",
+  "Rainfall_lag3",
+  "Rainfall_lag7",
+  "Rainfall_MA7",
+  "Rainfall_MA3",
+  "MaxTemp_MA7",
+  "MinTemp_MA7",
+  "Heavy_Rain_Flag",
+  "Consec_Heavy_Days"
+ ],
+ "raw_dirs": [
+  "/content/drive/MyDrive/ISRO_Digital_Twin/Rainfall",
+  "/content/drive/MyDrive/ISRO_Digital_Twin/Max_temp",
+  "/content/drive/MyDrive/ISRO_Digital_Twin/Min_temp"
+ ]
+}

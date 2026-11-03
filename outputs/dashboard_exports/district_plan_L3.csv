@@ -1,0 +1,4 @@
+District,p (flood within L days),demand d (k),certain demand u' (k),from WH1 (k),from WH2 (k),stock X (k),coverage %
+Cachar,0.0101,92.8,68.6,41.1,0.3,41.4,45
+Karimganj,0.0101,80.0,58.3,11.1,47.2,58.3,73
+Hailakandi,0.0101,33.8,24.8,24.8,0.0,24.8,73
