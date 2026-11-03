@@ -1,5 +1,5 @@
 # FloodTwin
-
+[![DOI](https://zenodo.org/badge/1444373337.svg)](https://doi.org/10.5281/zenodo.23921952)
 **Forecast-informed extreme-value relief-inventory allocation under flood risk**
 
 This repository contains the code and outputs for the paper
