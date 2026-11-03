@@ -1,0 +1,10 @@
+# raw IMD input data (not redistributed)
+Rainfall/
+Max_temp/
+Min_temp/
+# notebook outputs written at run time
+FloodTwin_outputs/
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc

@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "FloodTwin: forecast-informed extreme-value relief-inventory allocation"
+type: software
+version: 1.0.0
+date-released: 2026-11-03
+license: MIT
+authors:
+  - family-names: Gupta
+    given-names: Ankita
+    affiliation: "Department of Mathematics, Assam University, Silchar, India"
+    orcid: "https://orcid.org/0009-0001-9995-0043"
+  - family-names: Dutta Choudhury
+    given-names: Karabi
+    affiliation: "Department of Mathematics, Assam University, Silchar, India"

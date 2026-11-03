@@ -1,0 +1,16 @@
+# Tested on Google Colab (2026) with cvxpy 1.9.3.
+numpy
+pandas
+scipy
+scikit-learn
+xgboost
+lightgbm
+matplotlib
+cvxpy>=1.5          # exact power cones
+clarabel
+# dashboard (Steps 11-13)
+streamlit
+pyngrok
+folium
+plotly
+streamlit-folium
