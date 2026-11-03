@@ -5,6 +5,7 @@
 This repository contains the code and outputs for the paper
 
 > Gupta, A., Dutta Choudhury, K. *A forecast-informed extreme-value model for stochastic relief-inventory allocation under flood risk, with special reference to a real flood event.* Submitted to the *International Journal of Disaster Risk Reduction*, 2026.
+> https://doi.org/10.5281/zenodo.23921953
 
 The model decides how many household relief kits to pre-position in each warehouse for each district before a flood. Flood occurrence is forecast by a calibrated machine-learning classifier, flood severity is described by a common-shape Generalized Pareto distribution (GPD), and the two are combined in a convex bi-objective programme that balances preparation cost against expected shortage cost within a budget and warehouse capacities. The programme is solved exactly through a power-cone reformulation (CVXPY + Clarabel).
 
